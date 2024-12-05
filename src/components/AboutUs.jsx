@@ -8,7 +8,7 @@ function AboutUs() {
     <div className=" about-us">
       <div className="background">
         <img
-          src="../imges/about2.png"
+          src="/public/imges/about2.png"
           alt="Chefs in kitchen"
           className="aboutImg"
         />
