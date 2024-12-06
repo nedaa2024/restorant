@@ -7,9 +7,10 @@
   margin-top: 100px;
 }
 .parent {
-  background-image: url("/public/imges/ttt.png") !important;
+  background-image: url("/imges/ttt.png") !important;
   background-size: cover;
 }
+
 .cardt {
   border-radius: 10px;
   padding: 20px;

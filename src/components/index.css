@@ -35,7 +35,7 @@ input::placeholder {
   transition: 0.5s;
 }
 .im {
-  background-image: url("/public/imges/land.png");
+  background-image: url("/imges/land.png");
   background-repeat: no-repeat;
   width: 100%;
   height: 100vh;
